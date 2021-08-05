@@ -1,0 +1,23 @@
+{
+    "menu": [{
+        "nombre":"Lokum",
+        "precio":"$4.00",
+        "descripcion":"Delicias turcas con pistacho y frutas."
+    },{
+        "nombre":"Café turco",
+        "precio":"$3.80",
+        "descripcion":"Café arábigo molido originario de Şanlıurfa."
+    },{
+        "nombre":"Dolma",
+        "precio":"$5.00",
+        "descripcion":"Rollitos de hoja de uva rellenos con carne picada y arroz."
+    },{
+        "nombre":"Té - Çay",
+        "precio":"$1.00",
+        "descripcion":"Delicioso té negro originario de las costas del mar negro."
+    },{
+        "nombre":"Baklava",
+        "precio":"$3.00",
+        "descripcion":"Pastelitos con pasta de pistacho, pistacho triturado y almíbar."
+    }]
+}

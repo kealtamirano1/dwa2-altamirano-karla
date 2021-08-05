@@ -1,0 +1,16 @@
+{
+  "name": "dwap1-altamirano-karla",
+  "version": "1.0.0",
+  "description": "Website restaurante üzüm",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karla Emilia Altamirano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
